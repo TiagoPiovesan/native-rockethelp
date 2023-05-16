@@ -1,5 +1,4 @@
-[Demo]([https://link-url-here.org](https://drive.google.com/file/d/1OGpZm-StiVf9NV4sU0DnEHziAeIZ7Of1/view?usp=share_link))
-
+[Demo](https://drive.google.com/file/d/1OGpZm-StiVf9NV4sU0DnEHziAeIZ7Of1/view?usp=share_link)
 
 
 This project aims to provide a React Native mobile application for support ticket management for study purposes. It uses various libraries, including Expo, Phosphor React Native, React Navigation, Firebase Auth, Firebase Firestore, and Native Base.
